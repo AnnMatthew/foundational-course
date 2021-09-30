@@ -1,0 +1,40 @@
+{
+    margin:0;
+    padding:0;
+}
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    background:url("https://webneel.com/wallpaper/sites/default/files/images/08-2018/1-nature-wallpaper-grass-hd.jpg");
+    background-size:cover ;
+ 
+
+}
+.center
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0, 0, 0, 0.438);
+    border-radius: 11px;
+
+
+}
+
+.center h1{
+    text-align: center;
+    color: chocolate;
+    padding: 40px;
+    border-bottom: cornsilk;
+}
+
+.center textfield{
+    margin:0 20px;
+    color: darkgray;
+    border-bottom: black;
+}
+
+
+
